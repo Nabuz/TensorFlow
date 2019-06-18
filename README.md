@@ -3,3 +3,4 @@ An Introduction to Deep Learning:
 -Linear and Logistic Regression managed as optiomization problems
 -Rnn as Classificator and Predictive Model for Time Series
 ##Programming Language:Python on Jupyter##
+##Framework: TensorFlow##
